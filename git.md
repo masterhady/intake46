@@ -4,3 +4,5 @@
 3- git status
 4- git add . 
 5- git commit -m "initial commit"
+
+6- git log
