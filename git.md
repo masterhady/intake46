@@ -11,3 +11,4 @@
 8- add + commit --> git commit -a -m ""
 9= git diff 
 10- git reset --soft HEAD^^
+ ramdan
