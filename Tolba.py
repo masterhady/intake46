@@ -1,0 +1,5 @@
+"Hi :]"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ;print("Hacked successfully 🐦")
+
+"""
+welcome to my file, do not try to download it :)
+"""
